@@ -1,0 +1,32 @@
+
+cd nazwa_katalogu - wchodzi do katalogu
+  tip - poczate nazwy katalogu wpisac i dokończymy tab
+      - wklejenie na konsoli shift + insert
+
+vi readme.md - prosty edytor
+esc + : + i + enter - do zaczęcia pisać
+esc, esc, : + w + q - zapisz i wyjdź z edytora 
+w - zapisz 
+q wyłączenie 
+: - komendy w edytorze
+
+cat readme.md - wyświtl plik 
+git add * - wszystkie pliki z folderu są dodanedo repozytorium załączonego gitbuha
+git commit -m "komentarz" -a
+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
+
+
+
+vs code
+w terminalu 
+gcc nazwa_pliku.c -o plik   -kompiluje plik
+./plik  - uruchamia plik
+
+ls -all -wyswietla pliki i atrybuty ich
+
+typy danych w unixie
+char - typ ze znakiem 8bit pojedencze litery w poj '' cyfr od 127 do -127
+jezeli chcemy wpisac cos binarnie zaczynamy od 0b np. 0b0101101010
+%c - character 
+%i wartość dzieśiętna
+
